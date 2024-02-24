@@ -1,3 +1,9 @@
+![Screenshot 2024-02-25 035902](https://github.com/amitsingh114/newsapp-reactjs/assets/161166868/b60de908-f4bc-4c62-8dac-13480d1fe2ce)
+
+
+
+![Screenshot 2024-02-25 035913](https://github.com/amitsingh114/newsapp-reactjs/assets/161166868/ab668835-d823-473a-bdc8-ddaf45e74458)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
